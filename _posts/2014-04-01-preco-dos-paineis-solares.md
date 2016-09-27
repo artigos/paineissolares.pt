@@ -3,7 +3,7 @@ layout: default
 title: Preço dos painéis solares
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
 Devido à sua geografia, Portugal possui uma ótima exposição solar, a melhor da Europa,  o que o torna num local com grande potencial para a produção de energia solar.
 
@@ -19,13 +19,13 @@ Os preços dos painéis solares pode variar por diversos fatores:
 
 Em baixo, analisamos cada tipo de painel solar mais pormenorizadamente.
 
-#Preço dos Painéis Solares Fotovoltaicos
+# Preço dos Painéis Solares Fotovoltaicos
 
 Para quem está a pensar investir em painéis solares fotovoltaicos, é possível encontrar no mercado sistemas a partir de 1000 €.
 
 Claro que o preço vai sempre depender do tipo de sistema que pretende montar, da potência necessária para a sua habitação, do tipo de materiais, etc.
 
-#Preço dos Painéis Solares Térmicos
+# Preço dos Painéis Solares Térmicos
 
 Os painéis solares térmicos são os mais comuns e os mais utilizados nas habitações dos Portugueses.
 
@@ -37,7 +37,7 @@ Os painéis solares térmicos com tecnologia de circulação forçada são ligei
 
 Muitos dos valores apresentados pelas empresas não incluí mão de obra, que pelo deve estar atento e de preferência pedir o valor total da construção.
 
-#Microgeração
+# Microgeração
 
 A microgeração é basicamente a produção de energia elétrica pelos consumidores particulares através de painéis solares fotovoltaicos.
 
@@ -58,7 +58,7 @@ Para isso assinalam várias razões, tais como:
 
 Para quem pretende investir neste tipo de sistema a DECO aconselha a ponderar bem sobre a decisão e aguardar algum tempo à espera que entrem mais players no mercado.
 
-#Incentivos para os painéis solares
+# Incentivos para os painéis solares
 
 Anteriormente existiam vários apoios para a colocação de painéis solares, tanto em novas habitações como nas já existentes, que beneficiava os proprietários com uma beneficios ficais.
 

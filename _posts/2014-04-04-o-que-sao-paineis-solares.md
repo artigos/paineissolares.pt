@@ -3,7 +3,7 @@ layout: default
 title: O que são painéis solares?
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
 Há já algum tempo que ouvimos falar dos painéis solares e dos métodos de produção de energia limpa, mas será esta uma alternativa viável?
 
@@ -13,7 +13,7 @@ Apesar de existirem várias sistema de produção de energia renovável para as 
 
 Basicamente os painéis solares captam a energia solar que depois poderão utilizá-la de diferentes formas. Vejamos em baixo os diferentes tipos de painéis solares e para que são utilizados.
 
-#Painéis Solares Fotovoltaicos
+# Painéis Solares Fotovoltaicos
 
 Os painéis solares fotovoltaicos utilizam a energia solar para produzir energia elétrica. Esta energia é armazenada em baterias que depois poderá ser utilizada em qualquer altura.
 
@@ -25,7 +25,7 @@ Apesar do valor poder parecer um pouco elevado, estima-se que seja possível rec
 
 Consulte o nosso artigo sobre os preços dos painéis solares fotovoltaicos, para ter uma noção mais exata do investimento necessário para a sua instalação.
 
-#Painéis Solares Térmicos
+# Painéis Solares Térmicos
 
 Nos painéis solares térmicos, a energia solar é utilizada para o aquecimento de águas, seja para banhos, para auxiliar o aquecimento central ou para utilizar numa piscina.
 
@@ -34,19 +34,19 @@ Nestes painéis, o valor pode variar consoante o número de litros do depósito 
 
 Podem ser encontrados a partir de 2500 euros, mas se pretender mais informação, consulte o nosso artigo sobre os preços dos painéis solares térmicos.
 
-#Painéis Solares Mistos
+# Painéis Solares Mistos
 
 Existem também os chamados painéis solares mistos, que conciliam as funcionalidades dos painéis acima descritos, isto é, convertem energia solar em energia elétrica e também aquecem a água.
 
 Neste painéis é utilizado um sistema de circulação de água que ajuda a reduzir a temperatura das células fotovoltaicas, para  aumentar a sua eficiência, e a água aquecida, que resulta desse processo, é enviada para o depósito.
 
-#A necessidade do Sol
+# A necessidade do Sol
 
 Apesar da principal fonte para este tipo de conversão elétrica seja a energia solar, isto não quer dizer que precisamos de dias de sol intenso para podermos gerar energia.
 
 Obviamente apenas nos dias limpos, sem nuvens, é que é possível produzir a 100%, apesar de que nos dias nublados também seja possível produzir energia.
 
-#As Baterias
+# As Baterias
 
 Num sistema de aproveitamento da luz solar para a produção de energia, as baterias são um elemento fundamental. Elas permitem que:
 
@@ -54,6 +54,6 @@ Num sistema de aproveitamento da luz solar para a produção de energia, as bate
 * seja possível utilizar a energia gerada mesmo durante a noite;
 * exista uma autonomia de uso que pode chegar até aos 3 dias;
 
-#Considerações Finais
+# Considerações Finais
 
 Antes de decidir investir nos painéis solares, deverá ter em conta vários fatores que poderão influenciar a sua escolha, e entre eles deverão constar o tipo de sistema que lhe se será mais útil, a dimensão do painel que será necessário e se pretende utilizar em toda a habitação ou apenas em algumas divisões.

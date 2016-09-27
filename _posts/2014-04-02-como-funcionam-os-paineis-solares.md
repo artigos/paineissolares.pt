@@ -3,7 +3,7 @@ layout: default
 title: Como funcionam os painéis solares?
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
 Apesar da sua utilização ser mais comum nos edifícios industriais, os painéis solares são ótimos para as habitações particulares.
 
@@ -11,7 +11,7 @@ A maioria das pessoas tem conhecimento dos benefícios do aproveitamento da ener
 
 Já sabe o que são os painéis solares? Sendo assim, vejamos então como funcionam na generalidade.
 
-#Como funcionam os painéis solares fotovoltaicos?
+# Como funcionam os painéis solares fotovoltaicos?
 
 Os painéis solares fotovoltaicos são utilizados para a produção de energia elétrica e são constituído geralmente por:
 
@@ -32,13 +32,13 @@ O uso de baterias não é obrigatório, apesar de ser bastante recomendado, pois
 
 As baterias aumentam o preço da instalação do painel solar, mas tornam o sistema muito mais eficiente, pois evitam as quebras da produção elétrica, provocadas por variações climáticas e permitem armazenar a energia até 3 dias.
 
-#Como funcionam os painéis solares térmicos?
+# Como funcionam os painéis solares térmicos?
 
 Os painéis solares térmicos são utilizados para o aquecimento de águas e utilizam 2 sistemas distintos de funcionamento, a circulação por termosifão ou circulação forçada.
 
 Vejamos em baixo cada um dos sistemas de circulação mais aprofundadamente.
 
-##Circulação por Termosifão
+## Circulação por Termosifão
 
 Num painel solar térmico com um sistema de circulação por termosifão, não existe a necessidade de bomba para a circulação da água.
 
@@ -46,7 +46,7 @@ A água circula naturalmente regendo-se pelas leis da física , segundo os princ
 
 Regra geral, este tipo de sistema é mais barato, pois não necessita de uma bomba, mas  também não é tão eficiente e requer que o depósito seja colocado por cima do painel solar.
 
-##Circulação Forçada
+## Circulação Forçada
 
 Os sistemas de circulação forçada funcionam dependendo de uma bomba de água.
 
